@@ -13,4 +13,4 @@ Download the notebook and helper function.Change the path of dataset.Run all the
 
 ## License
 
-This repo is covered under [MIT LICENSE](https://github.com/ishan6899/face_generation_using_gan/master/LICENSE
+This repo is covered under [MIT LICENSE](https://github.com/ishan6899/face_generation_using_gan/master/LICENSE)
